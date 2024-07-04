@@ -1,5 +1,8 @@
 # HRSAM: Efficiently Segment Anything in High-resolution Images
 
+This repository contains the implementation for
+> [HRSAM: Efficiently Segment Anything in High-resolution Images](https://arxiv.org/abs/2407.02109)
+
 ![Comparison of HRSAM and previous SOTA SegNext in high-precision interactive segmentation](assets/experiment-qualitative.png)
 *Comparison of HRSAM and previous SOTA SegNext in high-precision interactive segmentation.*
 
